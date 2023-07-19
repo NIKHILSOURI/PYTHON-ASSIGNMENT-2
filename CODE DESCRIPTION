@@ -1,7 +1,19 @@
+FIRST YEAR B.tech II SEMESTER
+
+PYTHON-ASSIGNMENT-2
+ASSIGNMENT GIVEN BY PROFF.CHENNA REDDY GARU
+
+###PYTHON PROGRAMMING### GROUP DETAILS:
+
+Y NIKHIL SOURI - 22001A0572
+V.SRINIKETH -22001A0558
+B.AJAY KUMAR REDDY
+
+
 Code Description
 This code is designed to automate the popular game "Chrome Dino" using the PyAutoGUI library. It continuously captures screenshots of the game screen, analyzes the pixels in the captured image to detect obstacles (cacti and birds), and performs appropriate actions (jumping or ducking) to avoid collisions.
 
-Dependencies
+Requirements:
 The following libraries are required to run this code:
 
 pyautogui: It provides functions to control the keyboard and mouse.
