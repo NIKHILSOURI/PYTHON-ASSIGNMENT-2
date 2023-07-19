@@ -7,7 +7,7 @@ ASSIGNMENT GIVEN BY PROFF.CHENNA REDDY GARU
 GROUP DETAILS:
 1. Y NIKHIL SOURI - 22001A0572
 2. V.SRINIKETH -22001A0558
-3. B.AJAY KUMAR REDDY
+3. B.AJAY KUMAR REDDY - 22001A0578
  
 Code Description
 This code is designed to automate the popular game "Chrome Dino" using the PyAutoGUI library. It continuously captures screenshots of the game screen, analyzes the pixels in the captured image to detect obstacles (cacti and birds), and performs appropriate actions (jumping or ducking) to avoid collisions.
